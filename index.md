@@ -6,3 +6,7 @@
 $ git init
 Code Sammple push
 ```
+- [x] Header
+- [x] Sample
+- [x] Commit 
+- [ ] Undo
